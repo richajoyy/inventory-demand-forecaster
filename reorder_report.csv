@@ -1,0 +1,11 @@
+product_id,product_name,category,current_stock,avg_daily_demand,days_of_stock,safety_stock,reorder_point,lead_time_days,stockout_date,status
+P008,Forklift Batteries,Equipment,3,1.3,2.3,3,5,14,2026-11-17,CRITICAL — ORDER NOW
+P001,Industrial Bearings,Machinery,45,13.3,3.4,7,100,7,2026-11-18,REORDER SOON
+P005,Welding Rods (Pack),Fabrication,12,9.3,1.3,3,25,4,2026-11-16,REORDER SOON
+P003,Hydraulic Fluid (5L),Maintenance,18,6.4,2.8,3,40,5,2026-11-17,REORDER SOON
+P007,Air Filter Units,Maintenance,8,3.4,2.4,2,15,6,2026-11-17,REORDER SOON
+P010,Circuit Breakers,Electrical,22,2.4,9.2,2,20,8,2026-11-24,MONITOR CLOSELY
+P004,Conveyor Belts,Machinery,210,4.0,52.5,4,30,10,2027-01-06,OK
+P002,Safety Gloves (Box),Safety,320,7.9,40.5,3,50,3,2026-12-25,OK
+P006,Steel Bolts M10 (100pc),Hardware,500,20.4,24.5,4,80,2,2026-12-09,OK
+P009,Packaging Tape (Roll),Packaging,150,14.7,10.2,2,30,1,2026-11-25,OK

@@ -1,0 +1,11 @@
+product_id,product_name,category,current_stock,reorder_point,lead_time_days,day1_sales,day2_sales,day3_sales,day4_sales,day5_sales,day6_sales,day7_sales
+P001,Industrial Bearings,Machinery,45,100,7,12,15,11,14,13,12,16
+P002,Safety Gloves (Box),Safety,320,50,3,8,7,9,6,8,10,7
+P003,Hydraulic Fluid (5L),Maintenance,18,40,5,6,7,5,8,6,7,6
+P004,Conveyor Belts,Machinery,210,30,10,4,5,3,4,5,4,3
+P005,Welding Rods (Pack),Fabrication,12,25,4,9,11,8,10,9,10,8
+P006,Steel Bolts M10 (100pc),Hardware,500,80,2,20,22,18,21,19,23,20
+P007,Air Filter Units,Maintenance,8,15,6,3,4,3,4,3,4,3
+P008,Forklift Batteries,Equipment,3,5,14,1,1,2,1,1,1,2
+P009,Packaging Tape (Roll),Packaging,150,30,1,15,14,16,13,15,14,16
+P010,Circuit Breakers,Electrical,22,20,8,2,3,2,3,2,2,3
