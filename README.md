@@ -92,6 +92,8 @@ python src/forecaster.py
 ## Author
 
 Richa JOY 
-Supply Chain Management  
+Supply Chain Management 
+https://github.com/richajoyy
+
 
 
