@@ -91,6 +91,7 @@ python src/forecaster.py
 
 ## Author
 
-Likhit Ravi Kumar  
-MS Finance, University of the Pacific  
-GitHub: github.com/likhithrk7
+Richa JOY 
+Supply Chain Management  
+
+
